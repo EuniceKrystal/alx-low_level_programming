@@ -1,14 +1,14 @@
 #include <stdio.h>
 
 /**
- *  main -Entry point
+ *  main - Entry point
  *  Return: Always 0 (Success)
  */
 int main(void)
 {
 	char c;
 
-	for (c = 'a'; c <= '2'; c++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		if (c != 'e' && c != 'q')
 		putchar(c);
