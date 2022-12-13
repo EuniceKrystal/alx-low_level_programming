@@ -1,1 +1,1 @@
-alphabet x10
+islower
